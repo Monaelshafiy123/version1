@@ -5,5 +5,6 @@ int main()
 {
 	printf("AMIT");
 	printf("hello world ");
-	return 0 ; 
+	printf("helloooo ");
+	return 0 ;
 }
