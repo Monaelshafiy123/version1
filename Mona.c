@@ -6,5 +6,6 @@ int main()
 	printf("AMIT");
 	printf("hello world ");
 	printf("helloooo ");
+	printf("group");
 	return 0 ;
 }
